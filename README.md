@@ -14,3 +14,6 @@ After you start the game, you can click those arrow to move the UFO and click be
 ## Interaction 3: “Damn it! How dare you steal my sheep!”
 Unfortunately, the shepherd finds out that you're stealing his sheep, so the game is over. You can restart the game! Have fun!
 <img width="1484" alt="Screenshot 2024-01-11 at 18 04 57" src="https://github.com/gaohaoting/AR_UFO_IOS/assets/112485201/1d5acb20-17ce-4fdb-81cc-26c5583312ee">
+
+## Thanks for watching, wanna see full video?
+Here's the google video link of my demo, feel free to watch it: https://drive.google.com/file/d/1HM5CZg8bmqODpd67Cd2E8Mq7H0WcINuc/view?usp=sharing
